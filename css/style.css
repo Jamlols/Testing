@@ -1,6 +1,37 @@
 body{
-	background-color: red;
+	background-color: #5d6d7e;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0, 20px 20px 20px 100px;
+	line-height: 30px;
 }
 h1{
-	color: green;
+	color: #c0392b;
+	padding-top: 50px;
+}
+h1, h2, p, ol{
+	font-family: "Quicksand";
+}
+p{
+	color: #f8f9f9;
+}
+ol{
+	color:  #f8f9f9;
+}
+main{
+	text-align: center;
+	background-color: #2e4053;
+}
+header{
+	background-color: #2e4053;
+	text-align: center;
+}
+}
+main img{
+	border-radius: 150px;
+	border: 5px inset #c0392b;
+}
+footer{
+	background-color: #2e4053;
+	text-align: right;
 }
